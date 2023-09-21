@@ -17,6 +17,11 @@ const receiptsData = [
     person: 'Matt',
     order: { main: 'Salad Bowl', protein: 'Organic Tofu', rice: 'none', sauce: "K'lla", toppings: ['Blue Potato Salad', 'Pico De Gallo', 'Red Kimchi'], drink: 'Sparkling Blood Orange Soda', cost: 20 },
     paid: true
+  },
+  {
+    person: 'Dianna Trials',
+    order: { main: 'Salad', protein: 'Organic Mushrooms', rice: 'brown', sauce: "Mushroom Avocado", toppings: ['Diced Potato', 'Pico De Gallo', 'Spicy Kimchi'], drink: 'Cold Pressed Ginger Juice', cost: 43.95 },
+    paid: true
   }
 ]
 
